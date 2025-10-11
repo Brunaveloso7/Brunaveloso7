@@ -1,8 +1,8 @@
-# Quem é você?
+# Sobre mim
 
 Meu nome é Bruna Velôso,tenho 16 anos nasci dia 18/09/2008, e gosto muito de tecnologia e redes sociais!Sempre curiosa e buscando novas ideias.
 
-## O que você está estudando ?
+## Estudos
 Atualmente estou no 2º EM no SESI Ipiranga,e fazendo curso técnico de Desenvolvimentos de Sistema no Senai no Ipiranga
 
 ## Carreiras que gostaria de tentar seguir:
