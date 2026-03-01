@@ -16,4 +16,4 @@ Atualmente estou no 3º EM no SESI Ipiranga,e fazendo curso técnico de Desenvol
   
   <img src="https://images.justwatch.com/poster/266006574/s718/sarangyi-bulsicag.jpg" alt= "Texto alternativo" width="200" height="300" >
 * E meu grupo de kpop favorito é o BTS 
-<img src="https://0.soompi.io/wp-content/uploads/2023/06/08060531/BTS-5.jpeg" alt="Texto alternativo" width="500" height="200" >
+<img src="https://0.soompi.io/wp-content/uploads/2023/06/08060531/BTS-5.jpeg" alt="Texto alternativo" width="300" height="200" >
