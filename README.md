@@ -1,6 +1,6 @@
 # Sobre mim
 
-Meu nome é Bruna Velôso,tenho 17 anos nasci dia 18/09/2008, e gosto muito de tecnologia e redes sociais! Sempre curiosa e buscando novas ideias.
+Meu nome é Bruna Velôso Ribeiro,tenho 17 anos nasci dia 18/09/2008, e gosto muito de tecnologia e redes sociais! Sempre curiosa e buscando novas ideias.
 
 ## Estudos
 Atualmente estou no 3º EM no SESI Ipiranga,e fazendo curso técnico de Desenvolvimentos de Sistema no Senai no Ipiranga
