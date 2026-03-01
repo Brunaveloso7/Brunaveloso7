@@ -14,6 +14,6 @@ Atualmente estou no 3º EM no SESI Ipiranga,e fazendo curso técnico de Desenvol
 * Não prático nenhum esporte,mas se eu tivesse oportunidade praticaria badminton e hipismo,minha comida preferida é frango acebolado,os estilos musicais que eu mais gosto é K-pop,Reggaeton,pop e Gospel;
 * Eu amo assistir K-Dramas e doramas no meu tempo livre, meu favorito é (Pousando no amor);
   
-  <img src="https://images.justwatch.com/poster/266006574/s718/sarangyi-bulsicag.jpg" alt= "Texto alternativo" width="100" height="100" >
+  <img src="https://images.justwatch.com/poster/266006574/s718/sarangyi-bulsicag.jpg" alt= "Texto alternativo" width="200" height="100" >
 * E meu grupo de kpop favorito é o BTS 
-<img src="https://0.soompi.io/wp-content/uploads/2023/06/08060531/BTS-5.jpeg" alt="Texto alternativo" width="300" height="200" >
+<img src="https://0.soompi.io/wp-content/uploads/2023/06/08060531/BTS-5.jpeg" alt="Texto alternativo" width="100" height="90" >
