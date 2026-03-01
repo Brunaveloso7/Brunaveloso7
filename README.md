@@ -1,9 +1,9 @@
 # Sobre mim
 
-Meu nome é Bruna Velôso,tenho 16 anos nasci dia 18/09/2008, e gosto muito de tecnologia e redes sociais!Sempre curiosa e buscando novas ideias.
+Meu nome é Bruna Velôso,tenho 17 anos nasci dia 18/09/2008, e gosto muito de tecnologia e redes sociais! Sempre curiosa e buscando novas ideias.
 
 ## Estudos
-Atualmente estou no 2º EM no SESI Ipiranga,e fazendo curso técnico de Desenvolvimentos de Sistema no Senai no Ipiranga
+Atualmente estou no 3º EM no SESI Ipiranga,e fazendo curso técnico de Desenvolvimentos de Sistema no Senai no Ipiranga
 
 ## Carreiras que gostaria de tentar seguir:
 * A principal carreira que eu penso em seguir é Profissional em TI 
@@ -16,4 +16,4 @@ Atualmente estou no 2º EM no SESI Ipiranga,e fazendo curso técnico de Desenvol
   
   <img src="https://images.justwatch.com/poster/266006574/s718/sarangyi-bulsicag.jpg" alt= "Texto alternativo" width="200" height="300" >
 * E meu grupo de kpop favorito é o BTS 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg/800px-BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg" alt="Texto alternativo" width="500" height="200" >
+<img src="https://0.soompi.io/wp-content/uploads/2023/06/08060531/BTS-5.jpeg" alt="Texto alternativo" width="500" height="200" >
